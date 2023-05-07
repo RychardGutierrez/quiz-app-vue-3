@@ -10,16 +10,14 @@
 </template>
 
 <script setup>
-import Card from 'primevue/card';
-import useQuiz from '../composables/useQuiz';
+import Card from 'primevue/card'
+import useQuiz from '../composables/useQuiz'
 
 defineProps({
-  quiz: { typeof: Object, require: true },
+  quiz: { typeof: Object, require: true }
 })
 
-
-const { chooseQuiz } = useQuiz();
-
+const { chooseQuiz } = useQuiz()
 </script>
 
 <style scoped>
