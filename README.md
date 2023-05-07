@@ -39,3 +39,9 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### Screepshot
+
+![image](public/img1.png)
+![image](public/img2.png)
+![image](public/img3.png)
