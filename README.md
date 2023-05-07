@@ -40,7 +40,7 @@ npm run test:unit
 npm run lint
 ```
 
-### Screepshot
+### Screenshot
 
 ![image](public/img1.png)
 ![image](public/img2.png)
